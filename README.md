@@ -1,6 +1,7 @@
 #Student-Management-System_Java
-Student Management System in Python done with basic validation Validations:
 
+Student Management System in Python done with basic validation
+Validations:
 1-Roll No should be positive
 
 2-Name should at least be consisting 2 characters it should not contains digits or special characters
